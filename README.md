@@ -11,6 +11,7 @@
  
  Referred the article to get the gist of the how lottery scheduler works<br>
  https://01siddharth.blogspot.com/2018/04/adding-system-call-in-xv6-os.html
+ https://01siddharth.blogspot.com/2018/04/implementing-lottery-scheduling-on-xv6.html
  
  Referred class notes for how to customize system calls. Taught by Kamen Yotov
 
